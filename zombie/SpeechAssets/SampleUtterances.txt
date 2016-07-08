@@ -1,0 +1,23 @@
+GetNewTipIntent a tip
+GetNewTipIntent a zombie survival tip
+GetNewTipIntent a survival tip
+GetNewTipIntent a zombie tip
+GetNewTipIntent tell me a tip
+GetNewTipIntent tell me a zombie survival tip
+GetNewTipIntent tell me a survival tip
+GetNewTipIntent tell me a zombie tip
+GetNewTipIntent give me a tip
+GetNewTipIntent give me a zombie survival tip
+GetNewTipIntent give me a survival tip
+GetNewTipIntent give me a zombie tip
+GetNewTipIntent give me some information
+GetNewTipIntent give me some zombie survival information
+GetNewTipIntent give me some information on zombie survival
+GetNewTipIntent tell me some zombie survival information
+GetNewTipIntent tell me some information on zombie survival
+GetNewTipIntent tell me something
+GetNewTipIntent give me something
+GetNewTipIntent I need a zombie survival tip
+GetNewTipIntent I want a zombie survival tip
+GetNewTipIntent I need a survival tip
+GetNewTipIntent I want a survival tip
